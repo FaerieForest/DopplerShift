@@ -88054,6 +88054,10 @@
 	dir = 1
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/item/rag{
+	pixel_y = 5;
+	pixel_x = 6
+	},
 /turf/open/floor/iron/dark,
 /area/station/science/explab)
 "ncB" = (
